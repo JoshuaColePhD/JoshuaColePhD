@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 ### Hi, I'm Joshua 👋
 
 **Data Scientist & AI Engineer in training** — PhD in Educational Leadership, self-built background in Python, R, SQL, and applied statistics, currently transitioning into AI/ML engineering with a focus on LLM applications (RAG, evaluation, agents).
@@ -23,4 +20,3 @@
 | [BigQuery Transportation Analytics](https://github.com/JoshuaColePhD/BigQuery_Transportation_Analytics) | NYC taxi trip analysis at scale — traffic patterns, segmentation, revenue insights | SQL, BigQuery |
 
 *More on the way: RAG application, LangGraph agent, and an LLM evaluation harness — part of a 12-month AI engineering roadmap.*
--->
