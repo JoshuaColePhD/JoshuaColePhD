@@ -1,34 +1,46 @@
-### Hi, I'm Joshua 👋
+# Hi, I'm Joshua Cole 👋
 
-**Data Scientist | AI Engineer** — PhD, hands-on with Python, R, SQL, and applied statistics. I build models that answer real questions: survival analysis on attrition, time-series forecasting, large-scale SQL analytics — and I'm now extending that into LLM systems: RAG, evaluation, and agentic workflows.
+**Applied AI Engineer** — PhD building reliable AI products that connect language models to real workflows, source material, and measurable outcomes.
 
-- 🔨 Building: an evaluation harness, a production RAG application, and a LangGraph agent
-- 📊 Shipped: predictive models, survival analysis (Cox, Kaplan-Meier), multi-horizon forecasting, BigQuery analytics at scale
-- ⚙️ Stack: Python, R, SQL, scikit-learn, LangChain/LangGraph, vector databases
+My work sits at the intersection of **LLM application engineering, retrieval, evaluation, and data science**. I care about systems that are grounded, testable, and useful—not just demos that produce plausible text.
+
+- 🔨 Building production-oriented AI applications with Python, TypeScript, FastAPI, React, and Postgres
+- 🧠 Working with RAG, pgvector, structured outputs, streaming generation, grounding audits, and agentic workflows
+- 📊 Bringing a quantitative foundation in statistics, machine learning, survival analysis, forecasting, and SQL analytics
 - 📫 [LinkedIn](https://www.linkedin.com/in/joshuacole123/)
 
----
+## Flagship project
 
-**In progress: AI Lesson Plan Generator**
+### [FlexEd Academy](https://github.com/JoshuaColePhD/FlexedAcademy)
 
-A production tool for teachers that retrieves from real standards documents rather than relying on model memory, enforces a structured output schema, and is checked by a custom eval harness before deployment.
+[Live application](https://flexedacademy.com)
 
-- [ ] **Retrieval** — RAG over standards docs (Common Core / AP framework / state standards)
-- [ ] **Structured output** — schema-enforced generation (objectives, standards alignment, materials, timing, assessment)
-- [ ] **Evaluation harness** — rubric-based checks for standards alignment, hallucination, reading-level fit
-- [ ] **Deployment** — live service (Cloudflare Workers), not a notebook
+A deployed AI lesson-planning platform for high-school teachers. FlexEd retrieves from real standards documents, applies course- and grade-scoped grounding, generates strict structured lesson plans, audits citations, persists plans, and exports district-formatted DOCX files.
 
-*This single project is designed to cover two of my four core AI engineering portfolio deliverables: a RAG application and an evaluation harness.*
+The project demonstrates the full applied-AI loop:
 
----
+```text
+retrieval → structured generation → validation → grounding audit → persistence → artifact export
+```
 
-**Featured work**
+It includes evaluation gates for retrieval quality, hallucinated and borrowed citations, scoped revisions, security isolation, entitlement logic, streaming behavior, and document integrity.
 
-| Project | What it does | Stack |
-|---|---|---|
-| [Customer Purchase Prediction](https://github.com/JoshuaColePhD/Customer_Purchase_Prediction) | End-to-end ML pipeline predicting purchase likelihood — EDA, feature engineering, model comparison, ROC analysis | Python, scikit-learn |
-| [HR Attrition & Survival Analysis](https://github.com/JoshuaColePhD/HR_Attrition_and_Survival_Analysis) | Employee attrition modeled with Kaplan-Meier and Cox proportional hazards | R |
-| [Household Electric Consumption](https://github.com/JoshuaColePhD/Household_Electric_Consumption_Analysis) | Multi-horizon time-series forecasting on household energy usage | Python |
-| [BigQuery Transportation Analytics](https://github.com/JoshuaColePhD/BigQuery_Transportation_Analytics) | NYC taxi trip analysis at scale — traffic patterns, segmentation, revenue insights | SQL, BigQuery |
+## Selected work
 
-*More on the way: RAG application, LangGraph agent, and an LLM evaluation harness — part of a 12-month AI engineering roadmap.*
+| Project | Evidence of applied-AI / data skill |
+|---|---|
+| [Household Electricity Forecasting](https://github.com/JoshuaColePhD/Household_Electric_Consumption_Analysis) | Multi-horizon forecasting, strong baselines, model comparison, and a live Vercel dashboard |
+| [BigQuery Transportation Analytics](https://github.com/JoshuaColePhD/BigQuery_Transportation_Analytics) | SQL analysis at scale, fact-to-dimension joins, anomaly detection, and executive dashboard storytelling |
+| [HR Attrition & Survival Analysis](https://github.com/JoshuaColePhD/HR_Attrition_and_Survival_Analysis) | Kaplan–Meier analysis, Cox regression, statistical interpretation, and people-analytics decision support |
+| [Customer Purchase Prediction](https://github.com/JoshuaColePhD/Customer_Purchase_Prediction) | Leakage-aware propensity modeling, model comparison, lift analysis, and campaign prioritization |
+| [Argument Architect](https://github.com/JoshuaColePhD/Argument_Architect/) | Browser-based educational product built with vanilla HTML, CSS, and JavaScript |
+
+## Technical focus
+
+**AI systems:** RAG, embeddings, pgvector, structured outputs, evaluation harnesses, grounding and refusal behavior, streaming, agents
+
+**Engineering:** Python, FastAPI, TypeScript, React, Postgres/Supabase, Docker, Render, Vercel, GitHub Actions
+
+**Data:** SQL, BigQuery, scikit-learn, R, time-series forecasting, survival analysis, experiment and model evaluation
+
+I’m interested in Applied AI Engineer roles where reliable model behavior, thoughtful product design, and rigorous evaluation matter as much as the model call itself.
