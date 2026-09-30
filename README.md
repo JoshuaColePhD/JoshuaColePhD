@@ -1,46 +1,44 @@
-# Hi, I'm Joshua Cole 👋
+# Joshua Cole, PhD
 
-**Applied AI Engineer** — PhD building reliable AI products that connect language models to real workflows, source material, and measurable outcomes.
+**Applied AI, Evaluation & Analytics**
 
-My work sits at the intersection of **LLM application engineering, retrieval, evaluation, and data science**. I care about systems that are grounded, testable, and useful—not just demos that produce plausible text.
+I build and evaluate AI products, with a focus on grounded outputs, useful workflows, and measurable quality. My flagship project is **FlexEd Academy**, a deployed lesson-planning application built around standards retrieval and citation audits.
 
-- 🔨 Building production-oriented AI applications with Python, TypeScript, FastAPI, React, and Postgres
-- 🧠 Working with RAG, pgvector, structured outputs, streaming generation, grounding audits, and agentic workflows
-- 📊 Bringing a quantitative foundation in statistics, machine learning, survival analysis, forecasting, and SQL analytics
-- 📫 [LinkedIn](https://www.linkedin.com/in/joshuacole123/)
+I bring a PhD in Educational Leadership, ten years in education, curriculum and assessment experience, and contract AI evaluation work since 2023.
 
-## Flagship project
+## Featured project: FlexEd Academy
 
-### [FlexEd Academy](https://github.com/JoshuaColePhD/FlexedAcademy)
+[Public showcase](https://github.com/JoshuaColePhD/FlexedAcademy-Showcase) · [Case study](https://github.com/JoshuaColePhD/FlexedAcademy-Showcase/blob/main/FlexedAcademy_Case_Study.md) · [Live application](https://flexedacademy.com)
 
-[Live application](https://flexedacademy.com)
+I built and deployed FlexEd Academy, an AI lesson-planning application for high-school teachers. It retrieves source standards, generates structured weekly plans, audits citations, and exports district-style Word documents.
 
-A deployed AI lesson-planning platform for high-school teachers. FlexEd retrieves from real standards documents, applies course- and grade-scoped grounding, generates strict structured lesson plans, audits citations, persists plans, and exports district-formatted DOCX files.
+- **Workflow:** scoped retrieval, structured generation, validation, citation audits, saved plans, and document export
+- **Evaluation:** documented 61/61 recall@5 on the project's canonical retrieval evaluation set, plus regression checks for grounding, scope, and artifact integrity
+- **Stack:** Python, FastAPI, React, TypeScript, Postgres/Supabase, and pgvector
+- **Review it:** the public showcase includes a walkthrough, sample lesson plan, and dated production-check evidence. The live application offers a read-only recruiter demo
 
-The project demonstrates the full applied-AI loop:
+AP Language has the deepest calibration. The case study explains the benchmark's scope and evaluation limits; teachers review generated plans before use. Application source code is private, with the workflow and evidence available in the public showcase.
 
-```text
-retrieval → structured generation → validation → grounding audit → persistence → artifact export
-```
+## Learning and assessment tools
 
-It includes evaluation gates for retrieval quality, hallucinated and borrowed citations, scoped revisions, security isolation, entitlement logic, streaming behavior, and document integrity.
+- [Argument Architect](https://github.com/JoshuaColePhD/Argument_Architect): browser-based argument and rhetorical-analysis practice for AP Language and first-year composition, with guided exercises and scaffolded feedback
+- [Essay Competition Leaderboard](https://github.com/JoshuaColePhD/Essay-Competition): a browser-based tool that aggregates rubric scores from spreadsheets, ranks entries, and visualizes results
 
-## Selected work
+## Analytics portfolio
 
-| Project | Evidence of applied-AI / data skill |
-|---|---|
-| [Household Electricity Forecasting](https://github.com/JoshuaColePhD/Household_Electric_Consumption_Analysis) | Multi-horizon forecasting, strong baselines, model comparison, and a live Vercel dashboard |
-| [BigQuery Transportation Analytics](https://github.com/JoshuaColePhD/BigQuery_Transportation_Analytics) | SQL analysis at scale, fact-to-dimension joins, anomaly detection, and executive dashboard storytelling |
-| [HR Attrition & Survival Analysis](https://github.com/JoshuaColePhD/HR_Attrition_and_Survival_Analysis) | Kaplan–Meier analysis, Cox regression, statistical interpretation, and people-analytics decision support |
-| [Customer Purchase Prediction](https://github.com/JoshuaColePhD/Customer_Purchase_Prediction) | Leakage-aware propensity modeling, model comparison, lift analysis, and campaign prioritization |
-| [Argument Architect](https://github.com/JoshuaColePhD/Argument_Architect/) | Browser-based educational product built with vanilla HTML, CSS, and JavaScript |
+- [HR Attrition & Survival Analysis](https://github.com/JoshuaColePhD/HR_Attrition_and_Survival_Analysis): Kaplan–Meier and Cox modeling in R, with diagnostics and an interactive dashboard for interpreting aggregate patterns
+- [Household Electricity Forecasting](https://github.com/JoshuaColePhD/Household_Electric_Consumption_Analysis): Python forecasting across 1-, 15-, and 60-minute horizons, with time-aware validation, baseline comparisons, and a results dashboard
+- [BigQuery Transportation Analytics](https://github.com/JoshuaColePhD/BigQuery_Transportation_Analytics): SQL analysis of NYC taxi trips, including segmentation, anomaly analysis, and dashboard communication
+- [Customer Purchase Prediction](https://github.com/JoshuaColePhD/Customer_Purchase_Prediction): logistic regression and random forest comparisons, purchase-propensity ranking, and a dashboard with clearly labeled business scenarios
 
-## Technical focus
+## Skills I bring
 
-**AI systems:** RAG, embeddings, pgvector, structured outputs, evaluation harnesses, grounding and refusal behavior, streaming, agents
+**Learning and measurement:** curriculum design, standards alignment, assessment and rubrics, survey research, program evaluation, and professional development
 
-**Engineering:** Python, FastAPI, TypeScript, React, Postgres/Supabase, Docker, Render, Vercel, GitHub Actions
+**Applied AI:** retrieval-augmented generation, structured outputs, evaluation design, citation grounding, and workflow prototyping
 
-**Data:** SQL, BigQuery, scikit-learn, R, time-series forecasting, survival analysis, experiment and model evaluation
+**Technical tools:** Python, R, SQL, TypeScript, FastAPI, React, Postgres/Supabase, scikit-learn, and BigQuery
 
-I’m interested in Applied AI Engineer roles where reliable model behavior, thoughtful product design, and rigorous evaluation matter as much as the model call itself.
+I’m interested in applied-AI product and solutions, AI evaluation, research, and analytics roles. My education and assessment experience gives me a practical foundation for defining quality, testing outcomes, and communicating complex work clearly.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/joshuacolephd/)
