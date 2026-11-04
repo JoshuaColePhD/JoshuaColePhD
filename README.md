@@ -1,44 +1,49 @@
 # Joshua Cole, PhD
 
-**Applied AI, Evaluation & Analytics**
+**Applied AI · Product engineering · Evaluation**
 
-I build and evaluate AI products, with a focus on grounded outputs, useful workflows, and measurable quality. My flagship project is **FlexEd Academy**, a deployed lesson-planning application built around standards retrieval and citation audits.
+I build AI products for practical workflows and evaluate where they work, where they fail, and what to improve next. My background includes a PhD in Educational Leadership, ten years in education, and contract AI evaluation work since 2023.
 
-I bring a PhD in Educational Leadership, ten years in education, curriculum and assessment experience, and contract AI evaluation work since 2023.
+I'm interested in applied AI product, engineering, evaluation, and solutions roles. These four projects show how I turn domain problems into working applications and inspectable evidence.
 
-## Featured project: FlexEd Academy
+## Selected projects
 
-[Public showcase](https://github.com/JoshuaColePhD/FlexedAcademy-Showcase) · [Case study](https://github.com/JoshuaColePhD/FlexedAcademy-Showcase/blob/main/FlexedAcademy_Case_Study.md) · [Live application](https://flexedacademy.com)
+### FlexEd Academy — grounded AI for teachers
 
-I built and deployed FlexEd Academy, an AI lesson-planning application for high-school teachers. It retrieves source standards, generates structured weekly plans, audits citations, and exports district-style Word documents.
+A lesson-planning application that retrieves curriculum standards, generates structured plans, checks citations, and exports Word documents.
 
-- **Workflow:** scoped retrieval, structured generation, validation, citation audits, saved plans, and document export
-- **Evaluation:** documented 61/61 recall@5 on the project's canonical retrieval evaluation set, plus regression checks for grounding, scope, and artifact integrity
-- **Stack:** Python, FastAPI, React, TypeScript, Postgres/Supabase, and pgvector
-- **Review it:** the public showcase includes a walkthrough, sample lesson plan, and dated production-check evidence. The live application offers a read-only recruiter demo
+**Demonstrates:** Python, hybrid search, tool calling, structured outputs, and evaluation of source grounding. The public showcase separates recorded retrieval results from generation-quality work still awaiting measurement.
 
-AP Language has the deepest calibration. The case study explains the benchmark's scope and evaluation limits; teachers review generated plans before use. Application source code is private, with the workflow and evidence available in the public showcase.
+[Explore the project](https://github.com/JoshuaColePhD/FlexedAcademy-Showcase) · [Try the live application](https://flexedacademy.com)
 
-## Learning and assessment tools
+### CameraCue Studio — a teleprompter that follows your voice
 
-- [Argument Architect](https://github.com/JoshuaColePhD/Argument_Architect): browser-based argument and rhetorical-analysis practice for AP Language and first-year composition, with guided exercises and scaffolded feedback
-- [Essay Competition Leaderboard](https://github.com/JoshuaColePhD/Essay-Competition): a browser-based tool that aggregates rubric scores from spreadsheets, ranks entries, and visualizes results
+A native Mac application for writing, rehearsing, recording, and reviewing presentations, with speech tracking that holds position and recovers after interruptions.
 
-## Analytics portfolio
+**Demonstrates:** async application engineering, media recovery, and regression testing. Public source includes separate simulated-replay and real-audio evaluations.
 
-- [HR Attrition & Survival Analysis](https://github.com/JoshuaColePhD/HR_Attrition_and_Survival_Analysis): Kaplan–Meier and Cox modeling in R, with diagnostics and an interactive dashboard for interpreting aggregate patterns
-- [Household Electricity Forecasting](https://github.com/JoshuaColePhD/Household_Electric_Consumption_Analysis): Python forecasting across 1-, 15-, and 60-minute horizons, with time-aware validation, baseline comparisons, and a results dashboard
-- [BigQuery Transportation Analytics](https://github.com/JoshuaColePhD/BigQuery_Transportation_Analytics): SQL analysis of NYC taxi trips, including segmentation, anomaly analysis, and dashboard communication
-- [Customer Purchase Prediction](https://github.com/JoshuaColePhD/Customer_Purchase_Prediction): logistic regression and random forest comparisons, purchase-propensity ranking, and a dashboard with clearly labeled business scenarios
+[Explore the code and demo](https://github.com/JoshuaColePhD/CameraCue) · [Read the case study](https://github.com/JoshuaColePhD/CameraCue/blob/main/docs/VOICE_FOLLOW_CASE_STUDY.md)
 
-## Skills I bring
+### DraftLoop — investigating AI scoring reliability
 
-**Learning and measurement:** curriculum design, standards alignment, assessment and rubrics, survey research, program evaluation, and professional development
+A formative writing-coach prototype that scores AP Language argument essays and suggests revisions.
 
-**Applied AI:** retrieval-augmented generation, structured outputs, evaluation design, citation grounding, and workflow prototyping
+**Demonstrates:** rubric-based evaluation, reproducible debugging, and honest failure analysis. Recovering complete model responses did not improve scoring agreement in its small recorded sample.
 
-**Technical tools:** Python, R, SQL, TypeScript, FastAPI, React, Postgres/Supabase, scikit-learn, and BigQuery
+[Explore the case study and walkthrough](https://github.com/JoshuaColePhD/DraftLoop-Showcase)
 
-I’m interested in applied-AI product and solutions, AI evaluation, research, and analytics roles. My education and assessment experience gives me a practical foundation for defining quality, testing outcomes, and communicating complex work clearly.
+### Nalu — speech to usable text
 
-[Connect on LinkedIn](https://www.linkedin.com/in/joshuacolephd/)
+A native Mac dictation application that transcribes speech, cleans up the transcript, checks protected details, and inserts text into the focused application.
+
+**Demonstrates:** LLM integration, measured latency comparisons, usage accounting, and holding a prompt change after a regression. The public demo and recorded model experiments are clearly distinguished.
+
+[Explore the project and evidence](https://github.com/JoshuaColePhD/Nalu-Portfolio) · [Try the browser demo](https://joshuacolephd.github.io/Nalu-Portfolio/)
+
+## Supporting work
+
+[SQL and transportation analytics](https://github.com/JoshuaColePhD/BigQuery_Transportation_Analytics) · [Python purchase prediction](https://github.com/JoshuaColePhD/Customer_Purchase_Prediction) · [R survival analysis](https://github.com/JoshuaColePhD/HR_Attrition_and_Survival_Analysis) · [Electricity forecasting](https://github.com/JoshuaColePhD/Household_Electric_Consumption_Analysis)
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/joshuacolephd/) · [Email](mailto:joshuacolephd@gmail.com)
