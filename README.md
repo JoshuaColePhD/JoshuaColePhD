@@ -2,7 +2,7 @@
 
 **Applied AI · Product engineering · Evaluation**
 
-I build AI applications and test how reliably they work. I bring a PhD in Educational Leadership, ten years in education, and contract AI evaluation experience since 2023.
+I build practical AI systems and measure how reliably they work—from retrieving sources to validating outputs and recovering failed jobs. I bring a PhD in Educational Leadership, ten years in education, and contract AI evaluation experience since 2023.
 
 Open to applied AI engineering, evaluation, and solutions roles. [LinkedIn](https://www.linkedin.com/in/joshuacolephd/) · [Email](mailto:joshuacolephd@gmail.com)
 
@@ -10,13 +10,13 @@ Open to applied AI engineering, evaluation, and solutions roles. [LinkedIn](http
 
 ### FlexEd Academy — grounded AI for teachers
 
-A lesson planner for teachers, from curriculum standards to editable Word documents. **Engineering focus:** source retrieval, structured generation, citation checks, and evaluation.
+A lesson planner for teachers, from curriculum standards to editable Word documents. **Engineering focus:** grounded generation, citation checks, and recoverable planning workflows.
 
 [Project and evidence](https://github.com/JoshuaColePhD/FlexedAcademy-Showcase) · [Explore the read-only demo](https://flexedacademy.com)
 
 ### CameraCue Studio — a teleprompter that follows your voice
 
-A native Mac app for rehearsing and recording presentations. **Engineering focus:** speech tracking, recovery after interruptions, asynchronous media processing, and regression tests.
+A native Mac app for rehearsing and recording presentations. **Engineering focus:** holding a reliable script position through pauses, skips, and restarts, backed by regression tests.
 
 [Public source and evidence](https://github.com/JoshuaColePhD/CameraCue) · [Watch the simulated Studio tour](https://github.com/JoshuaColePhD/CameraCue/blob/main/docs/media/studio-demo.gif)
 
@@ -28,7 +28,7 @@ A writing-coach prototype with rubric feedback and revision suggestions. **Evalu
 
 ### Nalu — speech to usable text
 
-A Mac dictation app that cleans up speech and inserts text into the active application. **Engineering focus:** preserving meaning, measuring latency and cost, and catching prompt regressions.
+A Mac dictation app that cleans up speech and inserts text into the active application. **Engineering focus:** preserving important details, measuring latency and usage, and testing prompt changes before release.
 
 [Project and evidence](https://github.com/JoshuaColePhD/Nalu-Portfolio) · [Try the fixed-rule browser sample](https://joshuacolephd.github.io/Nalu-Portfolio/)
 
