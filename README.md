@@ -12,25 +12,25 @@ Open to applied AI engineering, evaluation, and solutions roles. [LinkedIn](http
 
 A lesson planner for teachers, from curriculum standards to editable Word documents. **Engineering focus:** grounded generation, citation checks, and recoverable planning workflows.
 
-[Project and evidence](https://github.com/JoshuaColePhD/FlexedAcademy-Showcase) · [Explore the read-only demo](https://flexedacademy.com)
+**[Watch FlexEd Academy GIF](https://raw.githubusercontent.com/JoshuaColePhD/FlexedAcademy-Showcase/main/media/flexed-current-demo.gif)** · [Project and evidence](https://github.com/JoshuaColePhD/FlexedAcademy-Showcase)
 
 ### CameraCue Studio — a teleprompter that follows your voice
 
 A native Mac app for rehearsing and recording presentations. **Engineering focus:** holding a reliable script position through pauses, skips, and restarts, backed by regression tests.
 
-[Public source and evidence](https://github.com/JoshuaColePhD/CameraCue) · [Watch the simulated Studio tour](https://github.com/JoshuaColePhD/CameraCue/blob/main/docs/media/studio-demo.gif)
+**[Watch CameraCue Studio GIF](https://raw.githubusercontent.com/JoshuaColePhD/CameraCue/main/docs/media/studio-demo.gif)** · [Public source and evidence](https://github.com/JoshuaColePhD/CameraCue)
 
 ### DraftLoop — investigating AI scoring reliability
 
 A writing-coach prototype with rubric feedback and revision suggestions. **Evaluation finding:** complete model responses improved; scoring agreement did not, in a three-essay experiment.
 
-[Case study and results](https://github.com/JoshuaColePhD/DraftLoop-Showcase) · [View the synthetic-writing walkthrough](https://github.com/JoshuaColePhD/DraftLoop-Showcase/blob/main/docs/WALKTHROUGH.md)
+**[Watch DraftLoop GIF](https://raw.githubusercontent.com/JoshuaColePhD/DraftLoop-Showcase/main/demo/assets/current-coach-demo.gif)** · [Case study and results](https://github.com/JoshuaColePhD/DraftLoop-Showcase)
 
 ### Nalu — speech to usable text
 
 A Mac dictation app that cleans up speech and inserts text into the active application. **Engineering focus:** preserving important details, measuring latency and usage, and testing prompt changes before release.
 
-[Project and evidence](https://github.com/JoshuaColePhD/Nalu-Portfolio) · [Try the fixed-rule browser sample](https://joshuacolephd.github.io/Nalu-Portfolio/)
+**[Watch Nalu GIF](https://raw.githubusercontent.com/JoshuaColePhD/Nalu-Portfolio/main/media/nalu-word-preview.gif)** · [Project and evidence](https://github.com/JoshuaColePhD/Nalu-Portfolio)
 
 ## Supporting work
 
