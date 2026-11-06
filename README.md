@@ -8,17 +8,19 @@ Open to applied AI engineering, evaluation, and solutions roles. [LinkedIn](http
 
 ## Selected projects
 
+Public evidence for the applications is on static pages. Those pages do not include application source.
+
 ### FlexEd Academy — grounded AI for teachers
 
-A lesson planner for teachers, from curriculum standards to editable Word documents. **Engineering focus:** grounded generation, citation checks, and recoverable planning workflows.
+A lesson planner for teachers, from curriculum standards to editable Word documents. **Engineering focus:** grounded generation, citation checks, and recoverable planning workflows. Historical small retrieval regression: 61/61. That result is retrieval on the recorded set, not general accuracy.
 
-**[Watch FlexEd Academy GIF](https://raw.githubusercontent.com/JoshuaColePhD/FlexedAcademy-Showcase/main/media/flexed-current-demo.gif)** · [Project and evidence](https://github.com/JoshuaColePhD/FlexedAcademy-Showcase)
+**[Watch FlexEd Academy GIF](https://raw.githubusercontent.com/JoshuaColePhD/FlexedAcademy-Showcase/main/media/flexed-current-demo.gif)** · [Project and evidence](https://github.com/JoshuaColePhD/FlexedAcademy-Showcase/blob/main/README.md) · [Live product](https://flexedacademy.com)
 
 ### CameraCue Studio — a teleprompter that follows your voice
 
-A native Mac app for rehearsing and recording presentations. **Engineering focus:** holding a reliable script position through pauses, skips, and restarts, backed by regression tests.
+A native Mac app for rehearsing and recording presentations. **Engineering focus:** holding a reliable script position through pauses, skips, and restarts, backed by regression tests. The 99.44% alignment figure is from a simulated replay, not microphone accuracy.
 
-**[Watch CameraCue Studio GIF](https://raw.githubusercontent.com/JoshuaColePhD/CameraCue/main/docs/media/studio-demo.gif)** · [Public source and evidence](https://github.com/JoshuaColePhD/CameraCue)
+**[Watch CameraCue Studio GIF](https://raw.githubusercontent.com/JoshuaColePhD/FlexedAcademy-Showcase/main/portfolio/cameracue/media/studio-demo.gif)** · [Project and evidence](https://github.com/JoshuaColePhD/FlexedAcademy-Showcase/blob/main/portfolio/cameracue/README.md)
 
 ### DraftLoop — investigating AI scoring reliability
 
@@ -28,9 +30,11 @@ A writing-coach prototype with rubric feedback and revision suggestions. **Evalu
 
 ### Nalu — speech to usable text
 
-A Mac dictation app that cleans up speech and inserts text into the active application. **Engineering focus:** preserving important details, measuring latency and usage, and testing prompt changes before release.
+A Mac dictation app in development. It is not commercially launched or sold. It cleans up speech and inserts text into the active application. **Engineering focus:** preserving important details, measuring synthetic HTTP cleanup latency and usage, and testing prompt changes. Recorded latency is synthetic HTTP time, not end-to-end dictation latency.
 
-**[Watch Nalu GIF](https://raw.githubusercontent.com/JoshuaColePhD/Nalu-Portfolio/main/media/nalu-word-preview.gif)** · [Project and evidence](https://github.com/JoshuaColePhD/Nalu-Portfolio)
+**[Watch Nalu GIF](https://raw.githubusercontent.com/JoshuaColePhD/FlexedAcademy-Showcase/main/portfolio/nalu/media/nalu-word-preview.gif)** · [Project and evidence](https://github.com/JoshuaColePhD/FlexedAcademy-Showcase/blob/main/portfolio/nalu/README.md)
+
+[Portfolio evidence index](https://github.com/JoshuaColePhD/FlexedAcademy-Showcase/blob/main/portfolio/README.md)
 
 ## Supporting work
 
